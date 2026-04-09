@@ -91,7 +91,8 @@ This project transforms raw trading data into **actionable insights** using SQL 
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard image here)
+<img width="1042" height="1600" alt="image" src="https://github.com/user-attachments/assets/b6330617-7e7e-4bb2-8dd0-d5cd6cc73266" />
+
 
 ---
 
