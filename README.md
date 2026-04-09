@@ -1,4 +1,4 @@
-# 🚀 $371K Profit Analysis: Personal 4-Year Forex Trading Performance & Strategy Optimization
+## 📊 Personal Forex Trading Performance Analysis (SQL + Power BI)
 
 ## 📌 Project Overview
 
