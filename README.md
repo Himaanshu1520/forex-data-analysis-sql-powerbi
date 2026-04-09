@@ -104,5 +104,5 @@ This project highlights how **profitability is not dependent on win rate alone**
 
 ## 🔗 Links
 
-* GitHub: [Add Link]
+* GitHub: [(https://github.com/Himaanshu1520)]
 * LinkedIn: [Add Link]
