@@ -14,13 +14,16 @@ This project transforms raw trading data into **actionable insights** using SQL 
 * Duration: 4 Years
 * Pairs: XAUUSD, EURUSD, GBPUSD, USDCAD, EURGBP
 * Sessions: London, New York
-* Attributes:
+  
+### 📌 Attributes
 
-  * Entry/Exit (PnL)
-  * Risk-to-Reward (RR)
-  * Trade Duration
-  * Lot Size
-  * Session, Day, Direction
+- Trade Identification: SNo, Date  
+- Market Details: Pair, Session, Day  
+- Trade Setup: Direction (Buy/Sell), Lot Size  
+- Risk Management: Risk Amount, Risk-to-Reward (RR)  
+- Trade Outcome: Result (Win/Loss), TP Hit (TP/SL/BE)  
+- Performance Metrics: PnL, Account Balance  
+- Time Analysis: Trade Duration  
 
 ---
 
