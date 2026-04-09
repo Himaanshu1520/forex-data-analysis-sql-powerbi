@@ -1,4 +1,4 @@
-## 📊 Personal Forex Trading Performance Analysis (SQL + Power BI)
+# 🚀 My 4-Year Forex Trading Journey: Data-Driven Performance & Strategy Analysis
 
 ## 📌 Project Overview
 
