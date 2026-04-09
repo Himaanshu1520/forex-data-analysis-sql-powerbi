@@ -1,4 +1,4 @@
-# 🚀 $371K Profit Analysis: 4-Year Forex Trading Performance & Strategy Optimization
+# 🚀 $371K Profit Analysis: Personal 4-Year Forex Trading Performance & Strategy Optimization
 
 ## 📌 Project Overview
 
