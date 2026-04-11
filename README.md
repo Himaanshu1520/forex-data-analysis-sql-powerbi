@@ -58,7 +58,7 @@ This project transforms raw trading data into actionable insights using **SQL an
 | 📉 Worst Year | **2022** (-$2,713.85) |
 | ⏱️ Avg Win Duration | **~4h 47m** |
 | ⏱️ Avg Loss Duration | **~0h 42m** |
-| - 🏆 New York session generated 18% more P&L than London despite similar win rates |
+
 
 ### Strategy Edge
 - Required Win Rate for break-even: ~40%
@@ -76,6 +76,7 @@ This project transforms raw trading data into actionable insights using **SQL an
 - 📉 **Reduce variability in lot size** to control risk consistency
 - 🎯 **Focus on high-performing setups** — Top setup: EURGBP | New York | Friday (37% WR)
 - 📈 **2023–2024 shows exponential equity growth** — strategy matured over time
+- 🏆 New York session generated 18% more P&L than London despite similar win rates
 
 ---
 
