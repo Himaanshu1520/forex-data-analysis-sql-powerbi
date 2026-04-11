@@ -73,7 +73,7 @@ This project transforms raw trading data into actionable insights using **SQL an
 - ❌ **Avoid low-performing days** (e.g., Friday NY session based on heatmap)
 - 📊 **Optimize for Risk-Reward (RR)** instead of chasing higher win rate
 - 📉 **Reduce variability in lot size** to control risk consistency
-- 🎯 **Focus on high-performing setups** — Top setup: EURGBP | New York | Friday (37% WR, $100 avg P&L)
+- 🎯 **Focus on high-performing setups** — Top setup: EURGBP | New York | Friday (37% WR)
 - 📈 **2023–2024 shows exponential equity growth** — strategy matured over time
 
 ---
