@@ -1,4 +1,4 @@
-# 🚀 My 4-Year Forex Trading Journey: Data-Driven Performance & Strategy Analysis
+# 🚀 4-Year Forex Trading Journey: Data-Driven Performance & Strategy Analysis
 
 ## 📌 Project Overview
 
