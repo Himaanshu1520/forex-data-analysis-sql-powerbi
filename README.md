@@ -115,13 +115,12 @@ This project was extended with a full end-to-end cloud pipeline on AWS — takin
 |---|---|---|
 | 1️⃣ | **Source** | Forex CSV file — 7,950 trades |
 | 2️⃣ | **AWS S3 (raw/)** | Upload raw data to data lake |
-| 3️⃣ | **AWS Glue Crawler** | Schema detection → Data Catalog |
-| 4️⃣ | **AWS Glue ETL Job** | Clean + Transform (Python Shell) |
-| 5️⃣ | **AWS S3 (cleaned/)** | Save processed data |
-| 6️⃣ | **AWS Glue RDS Job** | Load into MySQL via pymysql |
-| 7️⃣ | **AWS RDS MySQL** | Structured database storage |
-| 8️⃣ | **MySQL Workbench** | 18 analytical SQL queries |
-| 9️⃣ | **Power BI** | 12-visual interactive dashboard |
+| 3️⃣ | **AWS Glue ETL Job** | Clean + Transform (Python Shell) |
+| 4️⃣ | **AWS S3 (cleaned/)** | Save processed data |
+| 5️⃣ | **AWS Glue RDS Job** | Load into MySQL via pymysql |
+| 6️⃣ | **AWS RDS MySQL** | Structured database storage |
+| 7️⃣ | **MySQL Workbench** | 18 analytical SQL queries |
+| 8️⃣ | **Power BI** | 12-visual interactive dashboard |
 
 ### AWS Services Used
 
