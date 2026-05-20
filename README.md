@@ -169,3 +169,8 @@ All AWS credentials have been removed and replaced with placeholders. Environmen
 
 - **GitHub:** [github.com/Himaanshu1520](https://github.com/Himaanshu1520)
 - **LinkedIn:** [linkedin.com/in/himaanshu-yadav](https://www.linkedin.com/in/himaanshu-yadav)
+  ---
+
+## 📜 License
+
+This project is licensed under the **MIT License** — feel free to use, share, and build on it with attribution.
