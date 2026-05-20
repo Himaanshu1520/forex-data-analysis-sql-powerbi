@@ -98,7 +98,8 @@ This project transforms raw trading data into actionable insights using **SQL an
 
 ## 📸 Dashboard Preview
 
-![Power BI Dashboard](forex_dashboard_preview.png)
+<img width="518" height="800" alt="image" src="https://github.com/user-attachments/assets/70c9f39f-9fd6-45b2-bd2a-199148385fc6" />
+
 
 ---
 
